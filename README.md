@@ -5,7 +5,7 @@
 
 📚 estou estudando HTML e CSS;
 
-🎓 sou jornalista com mestrado em comunicação.
+🎓 sou jornalista com mestrado em comunicação;
 
 👨🏻‍💻 ele/dele.
 <hr>
@@ -15,9 +15,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afschlindwein&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
-    <img align="center" alt="Andre-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Andre-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Andre-pic" height="150" style="border-radius:90px;" src="https://github.com/afschlindwein.png">
+    <img align="right" alt="Andre-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="right" alt="Andre-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
   
   ##
